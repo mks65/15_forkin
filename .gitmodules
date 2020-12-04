@@ -22,3 +22,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/15_forkin
 	branch = main
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_forking.git
+	branch = main
