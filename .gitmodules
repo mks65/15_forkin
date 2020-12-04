@@ -2,3 +2,7 @@
 	path = raoIva
 	url = https://github.com/irao12/systems_15_forkin
 	branch = main
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work15_forkin.git
+	branch = main
