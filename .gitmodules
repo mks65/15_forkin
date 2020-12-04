@@ -14,3 +14,7 @@
 	path = zhouKel
 	url = https://github.com/KellyZhou223/forkin.git
 	branch = master
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/15_forkin.git
+	branch = main
