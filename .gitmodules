@@ -38,3 +38,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/15_forkin_zhangAle
 	branch = master
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/15_forkin
+	branch = main
