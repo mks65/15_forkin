@@ -30,3 +30,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/15_forkin_J.git
 	branch = main
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/15_forkin_vj.git
+	branch = master
