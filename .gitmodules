@@ -46,3 +46,7 @@
 	path = vostrikovVla
 	url = https://github.com/villinoid/15_systems
 	branch = main
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw15_forkin
+	branch = master
