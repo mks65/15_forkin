@@ -42,3 +42,7 @@
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/15_forkin
 	branch = main
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/15_systems
+	branch = main
