@@ -34,3 +34,7 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/15_forkin_vj.git
 	branch = master
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/15_forkin_zhangAle
+	branch = master
