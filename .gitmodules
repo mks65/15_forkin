@@ -58,3 +58,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/systems_15_forkin.git
 	branch = main
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_15_forkin.git
+	branch = main
