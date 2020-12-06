@@ -50,3 +50,7 @@
 	path = huMic
 	url = https://github.com/GuessHuIAm/hw15_forkin
 	branch = master
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work15.git
+	branch = main
