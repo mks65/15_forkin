@@ -54,3 +54,7 @@
 	path = liSun
 	url = https://github.com/sunnyli13/Work15.git
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_15_forkin.git
+	branch = main
