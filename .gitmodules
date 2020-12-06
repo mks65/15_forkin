@@ -62,3 +62,7 @@
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk65_15_forkin.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/15_forkin_mks.git
+	branch = main
