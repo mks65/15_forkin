@@ -74,3 +74,7 @@
 	path = siuVic
 	url = https://github.com/vs2961/15_forkin_vs.git
 	branch = main
+[submodule "zhangDev"]
+	path = zhangDev
+	url = https://github.com/dzhang10/hw_15_forkit.git
+	branch = master
