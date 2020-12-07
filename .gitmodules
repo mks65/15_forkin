@@ -130,3 +130,7 @@
 	path = hernandezCar
 	url = https://github.com/KarlWithK/15_forkin_mks.git
 	branch = master
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/forkin.git
+	branch = master
