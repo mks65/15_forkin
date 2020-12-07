@@ -106,3 +106,7 @@
 	path = liuAli
 	url = https://github.com/aliu889/15_forkin_.git
 	branch = master
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/15_forkin
+	branch = master
