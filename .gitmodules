@@ -122,3 +122,7 @@
 	path = waldAle
 	url = https://github.com/SashaWald/work_15.git
 	branch = main
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/15_forkin.git
+	branch = main
