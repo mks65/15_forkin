@@ -98,3 +98,7 @@
 	path = maoMad
 	url = https://github.com/madelynxmao/15_forkin.git
 	branch = main
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/15_forkin
+	branch = main
