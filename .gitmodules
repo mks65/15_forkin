@@ -118,3 +118,7 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_15.git
 	branch = main
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/work_15.git
+	branch = main
