@@ -82,3 +82,7 @@
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw15.git
 	branch = main
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/15_forkin.git
+	branch = main
