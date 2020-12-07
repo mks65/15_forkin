@@ -90,3 +90,7 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/15_forkin.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-15_forkin.git
+	branch = master
