@@ -138,3 +138,7 @@
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-15
 	branch = master
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work15
+	branch = main
